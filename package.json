@@ -10,7 +10,9 @@
   "author": "vinod.sharma",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongoose": "^9.10.0",
+    "validator": "^13.15.35"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
